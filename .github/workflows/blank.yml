@@ -1,4 +1,3 @@
-<script>
 // Ultra-compact Fitness Checklist Widget - Fixed Version
 (function(){
   // Create and append styles
@@ -306,4 +305,3 @@
   // Initialize
   renderWidget();
 })();
-</script>
